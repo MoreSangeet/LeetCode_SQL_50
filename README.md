@@ -82,10 +82,7 @@ Each SQL problem has a corresponding solution located in a separate file. You ca
 
 ## How to Use
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/LeetCode-SQL-50-Solutions.git
-   ```
+1. Clone the repository
 
 2. Navigate to the directory containing the SQL files for each problem.
 
